@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935762986007",
+    "project_id": "agriapp-9336e",
+    "storage_bucket": "agriapp-9336e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935762986007:android:2acf624cee0c6c6838c852",
+        "android_client_info": {
+          "package_name": "com.example.cerysai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtEqGrotWvnYywhX1xBgs0UTGjX-18ZjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

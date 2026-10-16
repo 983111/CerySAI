@@ -1,5 +1,9 @@
-# CerySAI (UI only)
-1. flutter create .        # generates android/ios/web folders around these files
-2. flutter pub get
-3. flutter run
-assets/images/ holds generated placeholder pictures - overwrite with real photos using the same file names.
+# CerySAI
+Flutter app: smarter farming. Firebase Auth + Firestore for accounts.
+
+1. `flutter create .`        (adds android/ios folders around this code)
+2. `flutter pub get`
+3. `flutterfire configure`   (see FIREBASE_SETUP.md - full beginner guide)
+4. `flutter run`
+
+assets/images/ holds generated placeholder pictures; overwrite them with real photos using the same file names.
